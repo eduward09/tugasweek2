@@ -1,1 +1,1 @@
-"# tugasweek2" 
+"THIS IS ASSIGNMENT FOR WEEK 2" 
